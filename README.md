@@ -6,6 +6,4 @@ New content
 
 ## Repository Purpose
 
-This will be a chage that conflicts
-wuth whatever is on the remote side.
-This was editd locally.
+This file is just a redme file.
