@@ -1,5 +1,5 @@
 # My Website
 
-This is a really awesome website.
+This is a personal website.
 
 New Content
