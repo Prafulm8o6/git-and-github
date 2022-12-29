@@ -2,6 +2,6 @@
 
 This is a personal website.
 
-New features
+New Editing On Update Branch
 
-New Content
+Updated Locally
