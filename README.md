@@ -6,7 +6,7 @@ New content
 
 ## Repository Purpose
 
-This file is just a redme file.
+New Content
 
 ## Getting Started
 
