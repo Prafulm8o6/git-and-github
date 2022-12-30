@@ -4,7 +4,7 @@ This is a personal website.
 
 New content
 
-## Repository
+## Repository Purpose
 
 New Content
 
