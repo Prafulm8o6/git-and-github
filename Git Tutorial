@@ -325,7 +325,7 @@ git push --tags
 
 git tag -f tag-name commit-id
 
-/* Push Updated tag on github repository */
+/* Push Updated tag */
 
 git push --force origin tag-name 
 
