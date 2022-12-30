@@ -4,9 +4,9 @@ This is a personal website.
 
 New content
 
-## Repository Purpose
+## Repository
 
-This file is just a redme file.
+New Content
 
 ## Getting Started
 
